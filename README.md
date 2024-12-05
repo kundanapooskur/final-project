@@ -66,10 +66,7 @@ This project uses React for the user interface, Node.js and Express.js for the b
 - Focused on delivering a seamless user experience for event creation and registration.  
 - Real-time updates and secure authentication with JWT.  
 
----
-
-## 🤝 Contributions  
-Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.  
+ 
 
 ---
 
