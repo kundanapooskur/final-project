@@ -1,7 +1,16 @@
-# EduVents - College Event Management Website  
+# CrowdHive - College Event Management Website  
 **Streamlining Event Management for College Campuses**  
 
-**EduVents** is a modern web application built using the MERN stack to simplify and enhance the process of organizing, managing, and participating in college events. This platform empowers students and administrators to seamlessly coordinate events, track registrations, and foster engagement across the campus.
+**CrowdHive**- is an event management platform built using the MERN stack (MongoDB, Express.js, React, and Node.js). It helps users to create, view, and delete events easily. The frontend is made with React and has 11 components along with one main file called `App.js`. These components make the website look good and work smoothly. 
+
+The backend is created using Node.js and Express.js. It includes 1 middleware to handle tasks like checking user authentication, 3 models to store data in the database (like user and event details), 4 routes to handle different API requests, and one main file, `server.js`, which runs the server. 
+
+One important feature is deleting events. You can do this by sending a `DELETE` request to the endpoint `http://localhost:8000/api/events/delete/:eventID`, where `eventID` is the unique ID of the event you want to delete.
+
+To run the project on your computer, you need Node.js and MongoDB installed. First, install all the required packages using `npm install`. Then, start the backend server with `node server.js` and run the frontend using `npm start`. You can access the website at `http://localhost:3000`.
+
+This project uses React for the user interface, Node.js and Express.js for the backend, and MongoDB to store data. It is simple, organized, and easy to use. In the future, features like user login, real-time notifications, and advanced integrations can be added to make it even better.
+
 
 ---
 
