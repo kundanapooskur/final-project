@@ -11,7 +11,6 @@ To run the project on your computer, you need Node.js and MongoDB installed. Fir
 
 This project uses React for the user interface, Node.js and Express.js for the backend, and MongoDB to store data. It is simple, organized, and easy to use. In the future, features like user login, real-time notifications, and advanced integrations can be added to make it even better.
 
-
 ---
 
 ## 🚀 Features  
@@ -33,11 +32,11 @@ This project uses React for the user interface, Node.js and Express.js for the b
 ## 📌 Setup Instructions  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Harshjangid015/EduVents---College-Event-Management-Website-MERN.git
+   git clone https://github.com/Snehalvs30/Group_Project_WebDev.git
    ```
 2. Navigate to the project directory:  
    ```bash
-   cd EduVents
+   cd CrowdHive
    ```
 3. Install dependencies for both frontend and backend:  
    ```bash
@@ -64,9 +63,9 @@ This project uses React for the user interface, Node.js and Express.js for the b
 ## 🌟 Highlights  
 - Full-stack implementation using the MERN stack.  
 - Focused on delivering a seamless user experience for event creation and registration.  
-- Real-time updates and secure authentication with JWT.  
+- Real-time updates and secure authentication with JWT. 
 
- 
+
 
 ---
 
